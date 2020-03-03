@@ -8,7 +8,7 @@ module.exports = {
 	 * The base URL used in links posted by the bot.
 	 * The URL *must* end with a forward slash ("/")
 	 */
-	hostingURL: "https://dev.gawesomebot.com/",
+	hostingURL: "https://superbots.xyz/",
 	/*
 	 * The IP the Web Server should bind to.
 	 * You should probably leave this as "0.0.0.0" which binds to all incoming connections
@@ -39,7 +39,7 @@ module.exports = {
 		/*
 		 * The URL pointing to the MongoDB instance GAB should use
 		 */
-		URL: "mongodb://localhost:27017/",
+		URL: "mongodb+srv://dbadmin:dbadmin@cluster0-rq7bz.mongodb.net/test",
 		/*
 		 * The name of the Database GAB should use
 		 */
