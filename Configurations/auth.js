@@ -1,8 +1,8 @@
 module.exports = {
 	discord: {
-		clientID: "629517119222186006",
-		clientSecret: "629517119222186006",
-		clientToken: "NjI5NTE3MTE5MjIyMTg2MDA2.Xl5xDw.x5xvaJs4Iq5kHNqcmWqdfz-BtXM",
+		clientID: "694725320984756276",
+		clientSecret: "1Z95q2DsEkBhbj7xlThABOmvUxAUS7sL",
+		clientToken: "Njk0NzI1MzIwOTg0NzU2Mjc2.XoVczg.v4q6qbiiYBE3xxke7Y8-jVFhR6k",
 	},
 	tokens: {
 		discordBotsOrg: "",
